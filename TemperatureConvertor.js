@@ -14,4 +14,4 @@ function fahrenheitToCelsius(fahrenheit) {
 
 // Example usage
 console.log(celsiusToFahrenheit(60)); // Output: 60°C is 140°F
-console.log(fahrenheitToCelsius(45)); // Output: 45°F is 7.222222222222222°C
+console.log(fahrenheitToCelsius(45)); 
